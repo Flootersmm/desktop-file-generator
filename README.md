@@ -10,3 +10,6 @@ a `.desktop` file generator for linux and BSD like systems
 
 ## step 3: run
 `dfg`
+
+# requirements
+`python3`, any DE/WM that can run .desktop files
