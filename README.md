@@ -9,7 +9,7 @@ a `.desktop` file generator for linux and BSD like systems
 `chmod +x dfg`
 
 ## step 3: run
-`dfg`
+`./dfg`
 
 # requirements
 `python3`, any DE/WM that can run .desktop files
